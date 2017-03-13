@@ -13,7 +13,7 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     border-bottom: 2px solid; 
     color: darkslateblue;
-    padding:10px 25px;
+    padding:10px 30px;
 }
 
 .footer {
@@ -27,7 +27,7 @@
 }
 
 .leftMenu {
-    height: 900px;
+    height: 1000px;
     background-color: black;
     width: 8%;
     display:block;
