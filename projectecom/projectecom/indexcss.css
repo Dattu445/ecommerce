@@ -1,0 +1,112 @@
+﻿body{
+    font-family: 'Berlin Sans FB';
+  
+}
+
+.header {
+    width:99%;
+    height: 20%;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+    background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-bottom: 2px solid; 
+    color: darkslateblue;
+    padding:10px 25px;
+}
+
+.footer {
+    background-color: grey;
+    text-align: center;
+    float: left;
+    width:100%;
+    height:200px;
+
+  
+}
+
+.leftMenu {
+    height: 900px;
+    background-color: black;
+    width: 8%;
+    display:block;
+    padding:10px 25px;
+    text-align: center;
+    float: left;
+}
+.topbar{
+    background-color:black;
+    color: white;
+    height: 30px;
+}
+.topbar a{
+    width: 180px;
+    display: inline-block;
+    text-align: center;
+     padding:5px 5px;
+    
+ 
+}
+
+.mainContent {
+    height: 900px;
+    background-color: white;
+    width: 87%;
+    float: right;
+    overflow: scroll;
+}
+
+form{
+    display:inline;
+}
+#topright {
+    line-height: 15px;
+    width: 60px;
+    font-size: 10pt;
+    font-family: tahoma;
+    margin-top: 1px;
+    margin-right: 75px;
+    position:absolute;
+    top: 0;
+    right: 0;
+    background-color: darkseagreen;
+
+}
+#signup{
+    line-height: 15px;
+    width: 60px;
+    font-size: 10pt;
+    font-family: tahoma;
+    margin-top: 1px;
+    margin-right: 8px;
+    position:absolute;
+    top: 0;
+    right: 0;
+    background-color: darkseagreen;
+}
+a{
+    color: white;
+    display: block;
+    width: 100px;
+    text-align: center;
+}
+a:hover, a:active{
+    color:lightcoral;
+    background-color: lightsteelblue;
+}
+.logo{
+    width: 250px;
+    height: 100px;
+    
+}
+.mainContent img{
+     width: 250px;
+    height: 250px;
+}
+#searchbar{
+     box-sizing: border-box;
+    border: 2px solid #ccc;
+     background-color: white;
+
+}
