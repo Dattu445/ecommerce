@@ -109,7 +109,8 @@
   <ItemGroup>
     <Content Include="index.html" />
     <Content Include="indexcss.css" />
-    <Content Include="Books.html" />
+    <Content Include="Templates\Books.html" />
+    <Content Include="Templates\Home.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -117,7 +118,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="s\" />
-    <Folder Include="Templates\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
